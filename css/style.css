@@ -1,0 +1,36 @@
+.s_1 { line-height: 1.25;
+  font: 'Century Gothic';
+  text-align: center;
+  font-weight: 400 ;
+  font-size: 35;
+  font-family: "Airstrip Four";
+  letter-spacing: 0 ;
+  word-spacing: 0;
+  text-anchor: middle;
+  fill:#484d42 ;
+  stroke-width: 1/2 ; }
+
+.s_2{
+  line-height:10.25;
+  inkscape-font-specification:'Airstrip Four';}
+
+.s_3{
+  inkscape-font-specification:'Airstrip Four' ;
+  font-size:40.88;
+  font-family:"Airstrip Four";
+  aria-label:U;
+  font-weight:400;
+  letter-spacing:0;
+  word-spacing:0;
+  text-anchor: middle;
+  fill: #99df00 ;
+  stroke-width: .31;
+
+}
+.s_4{
+  line-height:1.25;
+  font:'Century Gothic';
+  text-align:center;
+}
+
+
